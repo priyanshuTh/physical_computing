@@ -57,4 +57,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 Author: Priyanshu Th  
 GitHub: [priyanshuTh](https://github.com/priyanshuTh)  
-Email: `priyanshuthakur922@gmail.com`
+Email: priyanshuthakur922@gmail.com
